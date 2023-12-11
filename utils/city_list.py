@@ -10,7 +10,6 @@ cities_data = [
     {"continent": "Asia", "country": "Turkey", "city": "Istanbul"},
     {"continent": "Asia", "country": "Pakistan", "city": "Karachi"},
     {"continent": "Asia", "country": "Bangladesh", "city": "Dhaka"},
-    
     # Africa
     {"continent": "Africa", "country": "Nigeria", "city": "Lagos"},
     {"continent": "Africa", "country": "Egypt", "city": "Cairo"},
@@ -22,7 +21,6 @@ cities_data = [
     {"continent": "Africa", "country": "Ivory Coast", "city": "Abidjan"},
     {"continent": "Africa", "country": "Tanzania", "city": "Dar es Salaam"},
     {"continent": "Africa", "country": "Angola", "city": "Luanda"},
-    
     # North America
     {"continent": "North America", "country": "United States", "city": "New York"},
     {"continent": "North America", "country": "Canada", "city": "Toronto"},
@@ -34,7 +32,6 @@ cities_data = [
     {"continent": "North America", "country": "United States", "city": "Philadelphia"},
     {"continent": "North America", "country": "United States", "city": "San Francisco"},
     {"continent": "North America", "country": "Canada", "city": "Vancouver"},
-    
     # South America
     {"continent": "South America", "country": "Brazil", "city": "Sao Paulo"},
     {"continent": "South America", "country": "Argentina", "city": "Buenos Aires"},
@@ -46,7 +43,6 @@ cities_data = [
     {"continent": "South America", "country": "Ecuador", "city": "Quito"},
     {"continent": "South America", "country": "Paraguay", "city": "Asuncion"},
     {"continent": "South America", "country": "Uruguay", "city": "Montevideo"},
-    
     # Europe
     {"continent": "Europe", "country": "United Kingdom", "city": "London"},
     {"continent": "Europe", "country": "France", "city": "Paris"},
@@ -58,7 +54,6 @@ cities_data = [
     {"continent": "Europe", "country": "Switzerland", "city": "Zurich"},
     {"continent": "Europe", "country": "Sweden", "city": "Stockholm"},
     {"continent": "Europe", "country": "Greece", "city": "Athens"},
-    
     # Australia
     {"continent": "Australia", "country": "Australia", "city": "Sydney"},
     {"continent": "Australia", "country": "Australia", "city": "Melbourne"},
@@ -68,6 +63,4 @@ cities_data = [
     {"continent": "Australia", "country": "Australia", "city": "Adelaide"},
     {"continent": "Australia", "country": "Australia", "city": "Canberra"},
     {"continent": "Australia", "country": "Australia", "city": "Gold Coast"},
-    {"continent": "Australia", "country": "Australia", "city": "Sydney"},
-    {"continent": "Australia", "country": "Australia", "city": "Melbourne"},
 ]
