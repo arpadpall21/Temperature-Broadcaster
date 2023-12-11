@@ -1,4 +1,13 @@
-# Weather-Broadcaster
+# Temperature Broadcasting
+
+## Description
+
+
+
+
+
+
+
 Broadcasting temperature through RabbitMQ (topic exchange) 
 
 - pika RabbitMQ client lib used
