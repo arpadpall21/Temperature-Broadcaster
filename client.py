@@ -1,6 +1,5 @@
 import pika
 
-
 continents = [
     'Europe',
 ]
@@ -30,6 +29,7 @@ queue_name = queue.method.queue
 
 
 channel.queue_bind(exchange=exchange_name, queue=queue_name, routing_key='Europe.*.*')
+channel.queue_bind(exchange=exchange_name, queue=queue_name, routing_key='*.*.Sidney')
 
 
 def callback(ch, method, properties, body):
