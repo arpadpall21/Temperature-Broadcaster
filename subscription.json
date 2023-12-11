@@ -1,0 +1,14 @@
+{
+  "continents": [
+    "Europe"
+  ],
+  "countries": [
+    "United States",
+    "China"
+  ],
+  "cities": [
+    "Sidney",
+    "Bogota",
+    "Sao Paulo"
+  ]
+}
